@@ -1,4 +1,0 @@
-some.domain.name.rpz.example.com. 300 IN CNAME sinkhole.example.com.
-another.domain.name.rpz.example.com. 300 IN CNAME sinkhole.example.com.
-masked.another.domain.name.rpz.example.com. 300 IN CNAME sinkhole.example.com.
-*.another.domain.name.rpz.example.com. 300 IN CNAME sinkhole.example.com.
