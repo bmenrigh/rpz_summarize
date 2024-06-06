@@ -1,0 +1,6 @@
+*.shadyguys.com.rpz.example.com. 300 IN CNAME sinkhole.example.com.
+wpad.shadyguys.com.rpz.example.com. 300 IN CNAME *.
+bad.shadyguys.com.rpz.example.com. 300 IN CNAME sinkhole.example.com.
+smtp.shadyguys.com.rpz.example.com. 300 IN CNAME rpz-passthru.
+*.static.shadyguys.com.rpz.example.com. 300 IN CNAME rpz-passthru.
+good.static.shadyguys.com.rpz.example.com. 300 IN CNAME rpz-passthru.

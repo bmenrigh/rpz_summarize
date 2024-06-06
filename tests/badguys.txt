@@ -1,0 +1,4 @@
+www.badguys.com.rpz.example.com. 300 IN CNAME sinkhole.example.com.
+mail.badguys.com.rpz.example.com. 300 IN CNAME sinkhole.example.com.
+ns1.badguys.com.rpz.example.com. 300 IN CNAME sinkhole.example.com.
+*.badguys.com.rpz.example.com. 300 IN CNAME sinkhole.example.com.
